@@ -62,7 +62,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 1
     - _ExcludeFromTUAndAA: 0
-    - _Fresnel_Power: 0.53
+    - _Fresnel_Power: 0.63
     - _OpaqueCullMode: 2
     - _QueueControl: 0
     - _QueueOffset: 0
