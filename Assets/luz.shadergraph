@@ -172,12 +172,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.Rendering.HighDefinition.ShaderGraph.HDUnlitSubTarget",
-    "m_ObjectId": "0033fd4f08864e0188545f3cc931ade8"
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Internal.Texture2DShaderProperty",
     "m_ObjectId": "077053fd97bf4ec89118c371d0c4e3d0",
     "m_Guid": {
@@ -432,14 +426,6 @@
 
 {
     "m_SGVersion": 0,
-    "m_Type": "UnityEditor.Rendering.HighDefinition.ShaderGraph.HDUnlitData",
-    "m_ObjectId": "3eedca7d172c40e8979a6f51b534e04a",
-    "m_EnableShadowMatte": false,
-    "m_DistortionOnly": false
-}
-
-{
-    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicValueMaterialSlot",
     "m_ObjectId": "3f0324c397af4fc7957481312dda2ca0",
     "m_Id": 1,
@@ -647,6 +633,12 @@
 
 {
     "m_SGVersion": 0,
+    "m_Type": "UnityEditor.Rendering.HighDefinition.ShaderGraph.HDUnlitSubTarget",
+    "m_ObjectId": "7a9557421d14408184b186f7b25ab0d5"
+}
+
+{
+    "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "83670e7112e04889b9a36cfa126b36f2",
     "m_Id": 6,
@@ -738,7 +730,7 @@
     "m_Type": "UnityEditor.Rendering.HighDefinition.ShaderGraph.HDTarget",
     "m_ObjectId": "94a18e385a0d432aaee04cd2c66e51ff",
     "m_ActiveSubTarget": {
-        "m_Id": "0033fd4f08864e0188545f3cc931ade8"
+        "m_Id": "7a9557421d14408184b186f7b25ab0d5"
     },
     "m_Datas": [
         {
@@ -748,7 +740,7 @@
             "m_Id": "0bde08d628d14a20b8a4f01bd06807d4"
         },
         {
-            "m_Id": "3eedca7d172c40e8979a6f51b534e04a"
+            "m_Id": "e55b2340bd40452281bacaec2d01f663"
         }
     ],
     "m_CustomEditorGUI": "",
@@ -1063,6 +1055,14 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "SurfaceDescription.Alpha"
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.Rendering.HighDefinition.ShaderGraph.HDUnlitData",
+    "m_ObjectId": "e55b2340bd40452281bacaec2d01f663",
+    "m_EnableShadowMatte": false,
+    "m_DistortionOnly": false
 }
 
 {
